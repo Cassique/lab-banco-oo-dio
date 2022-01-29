@@ -25,7 +25,5 @@ public class Main {
         contaPoupancaPessoaFisicaPresencial.imprimirExtrato();//500
         contaCorrentePessoaJuridicaDigital.imprimirExtrato();//2500
 
-
-
     }
 }
