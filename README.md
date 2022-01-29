@@ -3,7 +3,7 @@
 ## 02/08/2021 - [Mentoria #1: Tire Suas Dúvidas Sobre Orientação a Objetos](https://www.youtube.com/watch?v=YS6ouOhkyNI)
 
 Desafio: Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário:
-“Um banco oferece aos seus clientes vários tipos de contas: corrente, poupança, integrada(corrente e poupança juntas),  pessoa física, pessoa jurídica, digital e tradicional), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).”
+Um banco oferece aos seus clientes vários tipos de contas: corrente, poupança, integrada(corrente e poupança juntas),  pessoa física, pessoa jurídica, digital e tradicional, as quais possuem as funcionalidades de depósito, saque e transferência entre contas da própria instituição.
 
 ### Abstração
 Habilidade de concentrar-se nos aspectos essenciais de um domínio, ignorando características menos importantes ou acidentais. Nesse contexto, objetos são abstrações de entidades existentes no domínio em questão.
